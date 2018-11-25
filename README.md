@@ -4,6 +4,6 @@ Repository for CSC 630
 
 Please use the following
 
-Python     : 2.7.5
+Python     : 3.6.5
 
-Tensorflow : 1.12.0
+PyTorch    : 0.4.1
