@@ -1,3 +1,0 @@
-[submodule "tumor-classification"]
-	path = tumor-classification
-	url = git@github.com:ronilp/tumor-classification.git
