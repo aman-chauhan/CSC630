@@ -4,4 +4,10 @@
 
 | T1 | T2 | Flair |
 |----|----|-------|
-| ![T1](docs/Example Images/T1.gif) | ![T2](docs/Example Images/T2.gif) | ![Flair](docs/Example Images/Flair.gif) |
+| ![T1](docs/Example_Images/T1.gif) | ![T2](docs/Example_Images/T2.gif) | ![Flair](docs/Example_Images/Flair.gif) |
+
+## Index
+
++ [Folder Structure](#folders)
++ [Introduction to Files](#intro2files)
++ [Execution](#execution)
