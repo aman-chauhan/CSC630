@@ -13,8 +13,9 @@
 -   [Introduction to Files](#intro2files)
 -   [Execution](#execution)
 
-<a name="folders"/>
 ## Folder Structure
+
+<a name="folders"/>
 
 ### docs
 
@@ -41,8 +42,9 @@
 
 Folder to store iPython notebooks
 
-<a name="genfolders"/>
 ## Generated Folders
+
+<a name="genfolders"/>
 
 ### models
 
